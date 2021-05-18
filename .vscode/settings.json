@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "/usr/local/bin/python3",
+    "python.pythonPath": "C:\\Users\\Ben\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
     "files.watcherExclude": {
         "**/target": true
     }
